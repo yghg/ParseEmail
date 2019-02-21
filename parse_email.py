@@ -3,7 +3,7 @@
 #Author:	Yoan Hermida
 #Date:		14 June 2015
 #Purpose:	Take monolithic text file of emails and split into 
-#			multiple text files to be able to import into mail program.
+#		multiple text files to be able to import into mail program.
 
 import re
 
